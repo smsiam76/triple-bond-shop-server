@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Vintage T9 Hair Rechargeable Trimmer",
+        "description_1": "No more need to have to go to expensive salons to get that fresh and precise trim. Get your desired style in no time with our cordless trimmers. The body of these wireless hair clippers is made up of durable metal with detailed engraved designs to leave behind the plain and unattractive trimmers. The different stainless steel T-shaped blades have sharp teeth that offer precise clipping and trimming of hair, beard, and mustache.",
+        "description_2": null,
+        "price": "550",
+        "category": "Trimmer",
+        "brand": "Vintage",
+        "inventory": "50",
+        "thumbnail": "https://i.ibb.co/p2HNwwt/Vintage-T9-1.jpg",
+        "images": [
+            "https://i.ibb.co/p2HNwwt/Vintage-T9-1.jpg",
+            "https://i.ibb.co/dcXxqvJ/Vintage-T9-2.jpg"
+        ],
+        "warranty": "7",
+        "specifications": {
+            "model": "Vintage T9",
+            "material": "Stainless, Steel stainless, steel alloy",
+            "color": null,
+            "weight": "370g",
+            "size": "15.5x4x2.5cm",
+            "power": "5W",
+            "voltage": "110V-240V 50Hz-60Hz.",
+            "batteryCapacity": "1200 mAh",
+            "chargingTime": "120 Minutes",
+            "usingTime": "60 minutes",
+            "powerSupply": "USB Charging",
+            "features": [
+                "360° close shave",
+                "Easy disassembly",
+                "Convenient to carry",
+                "Battery capacity: 1200mAh",
+                "7 days replacement warranty"
+            ]
+        }
+    },
+    {
+        "name": "Hoco W35 Wireless Headphone- Black Colorr",
+        "description_1": "The Hoco W35 Wireless Headphone is a pair of over-ear headphones that offer good sound quality and a comfortable fit. They have a long battery life of up to 40 hours, and they take about 2 hours to fully charge.",
+        "description_2": "The Hoco W35 Wireless Headphones have a foldable design, making them easy to carry around. They also have a built-in microphone so you can use them to make calls or answer voice commands.",
+        "price": "1300",
+        "category": "Headphone",
+        "brand": "Hoco",
+        "inventory": "50",
+        "thumbnail":"https://i.ibb.co/gdwJDhJ/Hoco-W35-Wireless-Headphone-Black-Color-1.jpg",
+
+        "images": [
+            "https://i.ibb.co/gdwJDhJ/Hoco-W35-Wireless-Headphone-Black-Color-1.jpg",
+            "https://i.ibb.co/c1LvsvY/Hoco-W35-Wireless-Headphone-Black-Color-2.jpg",
+            "https://i.ibb.co/9prNXjz/Hoco-W35-Wireless-Headphone-Black-Color-3.jpg"
+        ],
+        "warranty": "7",
+        "specifications": {
+            "model": "W35",
+            "color": "Black / Silver",
+            "weight": "390g",
+            "size": "180 x 152 x 48 mm",
+            "connectivity": "Bluetooth V5.0",
+            "batteryCapacity": "400mA",
+            "chargingTime": "120 Minutes",
+            "usingTime": "40 Hours",
+            "waterResistance": "IPX5",
+            "features": [
+                "Battery life: Up to 40 hours",
+                "Water resistance: IPX5",
+                "Battery capacity: 400mAh",
+                "7 days replacement warranty"
+            ]
+        }
+    }
+]
